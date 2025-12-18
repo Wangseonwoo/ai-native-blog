@@ -26,7 +26,7 @@ export function AuthorProfile({ name, avatar, bio, social }: AuthorProfileProps)
 
         {/* 프로필 정보 */}
         <div className="flex-1">
-          <h3 className="font-semibold text-lg">{name}</h3>
+          <h3 className="font-semibold text-lg">{name} Sir</h3>
           <p className="text-neutral-600 dark:text-neutral-400 text-sm mt-1">
             {bio}
           </p>
