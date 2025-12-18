@@ -1,0 +1,12 @@
+{
+    "permissions": {
+        "allow":[
+            "Bash(curl:*)",
+            "Bash(pnpm remove:*)",
+            "Bash(pnpm dev:*)",
+            "Bash(pnpm add:*)"
+        ],
+        "deny":[],
+        "ask":[]
+    }
+}
